@@ -16,7 +16,7 @@ export default function Home() {
         <div className="h-40 my-10 ">
           <p className="text-2xl "> Welcome to ToDo-app</p>
            Manage your all tasks and keep going 
-           <p> Today's {times}</p>
+           <p> Today is {times}</p>
         </div>
       </div>
       <div className='bg-slate-200 text-black  w-full '>
